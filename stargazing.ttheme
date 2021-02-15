@@ -63,22 +63,21 @@ draw-frame
 
 #-Top panel---------
 
-245,245,245		tab active line
-235,235,235		tab line
-38,38,38		tab background
+231,176,119		tab active line
+239,202,164		tab line
+42,41,47		tab background
 45,45,45		tab over
-50,50,50		tab active background
-
-249,190,3,200		music vis
+42,41,47		tab active background
+42,41,47		music vis
 
 #-Side panel--------
 
 240,240,240		title info
 215,215,215		extra info
-26,26,26		art border
+42,41,47		art border
 
 #-Mini Mode---------
 
-20,20,20        mini bg
-60,60,60        mini border
+42,41,47        mini bg
+42,41,47        mini border
 
