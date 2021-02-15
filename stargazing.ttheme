@@ -14,10 +14,10 @@ draw-frame
 #-Playlist-------
 
 203,176,147		track line
-202,203,147		track time
-147,202,203		track index
-175,147,203		track artist
-174,203,147		album line
+116,116,62		track time
+62,116,116    	track index
+107,86,129   	track artist
+102,128,77		album line
 
 231,176,119		track playing
 119,230,231		index playing
@@ -64,7 +64,7 @@ draw-frame
 #-Top panel---------
 
 231,176,119		tab active line
-239,202,164		tab line
+203,176,147		tab line
 42,41,47		tab background
 45,45,45		tab over
 42,41,47		tab active background
@@ -80,4 +80,3 @@ draw-frame
 
 42,41,47        mini bg
 42,41,47        mini border
-
