@@ -8,6 +8,7 @@ draw-frame
 42,41,47	  	playlist panel
 42,41,47		side panel
 42,41,47		bottom panel
+42,41,47 		gallery background
 42,41,47        queue panel
 
 #-Playlist-------
